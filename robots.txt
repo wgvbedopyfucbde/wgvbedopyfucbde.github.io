@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://wgvbedopyfucbde.github.io/wgvbedopyfucbde_github_io_zp529_11.txt
+Sitemap: https://wgvbedopyfucbde.github.io/wgvbedopyfucbde_github_io_zp529_16.txt
+Sitemap: https://wgvbedopyfucbde.github.io/wgvbedopyfucbde_github_io_zp529_20.txt
+Sitemap: https://wgvbedopyfucbde.github.io/wgvbedopyfucbde_github_io_zp529_25.txt
+Sitemap: https://wgvbedopyfucbde.github.io/wgvbedopyfucbde_github_io_zp529_3.txt
+Sitemap: https://wgvbedopyfucbde.github.io/wgvbedopyfucbde_github_io_zp529_6.txt
